@@ -1,0 +1,22 @@
+# Datasets
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
